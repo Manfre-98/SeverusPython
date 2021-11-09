@@ -9,7 +9,7 @@ The agent developed use the Iterative Deepening Search with Alpha Beta pruning b
 
 
 ## Instructions
-In order to use the agent add the aima core library and in the /tablut folder run the command "./SeverusPython role time ip"
+In order to use the agent add the aima core library and in the /tablut folder and run the command "./SeverusPython role time ip"
 </br></br>
 -role: "White" or "Black" </br>
 -time: time in seconds </br>
